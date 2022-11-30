@@ -35,11 +35,6 @@
   align-items: flex-start;
 }
 
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
 .logo {
   width: 228px;
   height: 32px;
