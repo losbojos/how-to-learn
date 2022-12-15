@@ -7,4 +7,5 @@
     column-gap: 20px;
     justify-content: stretch;
     align-items: stretch;
+    list-style-type: none;
 }
