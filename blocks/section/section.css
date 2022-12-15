@@ -1,7 +1,0 @@
-.section {
-    padding-top: 100px;
-}
-
-.section:last-of-type {
-    padding-top: 0;
-}
