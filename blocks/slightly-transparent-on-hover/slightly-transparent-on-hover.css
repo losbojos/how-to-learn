@@ -1,0 +1,5 @@
+/* Плавно немного прозрачные элементы при наведении мыши */
+.slightly-transparent-on-hover:hover {
+    opacity: 0.7;
+    transition: opacity 0.7s ease-in-out;
+}
