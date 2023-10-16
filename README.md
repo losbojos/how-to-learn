@@ -18,3 +18,8 @@
 * [Репозиторий](https://github.com/losbojos/how-to-learn)
 * [Домашняя страница (демо)](https://losbojos.github.io/how-to-learn/)  
 
+## Системные требования
+* Редактор кода [Visual Studio Code](https://code.visualstudio.com) или другой
+* Система контроля версий [Git](https://git-scm.com/downloads)
+* Браузер Chrome, Firefox или др.
+  
